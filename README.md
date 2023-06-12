@@ -25,7 +25,7 @@
    </div>
     
   <h1 align="center">Redes Sociais </h1> 
-    <a href = "https://www.linkedin.com/in/alexandre-barros-de-souza-a0950215b/">
+    <a href = "https://www.linkedin.com/in/alexandre21souza/">
       <img width="25" src="linkedIn.png">
     </a>   
   
